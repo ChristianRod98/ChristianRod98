@@ -9,7 +9,7 @@ Recent graduate with a B.S. in Computer Science and a strong interest in technol
 | Title                                         | link   | Skills             | 
 |-----------------------------------------------|--------|--------------------|
 | Honeypot Server | <a href="https://github.com/ChristianRod98/HoneyPot-Server">Repository</a> | Windows PowerShell, Linux, Cloud VPS environments|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Home Lab | <a href="">Detection Lab</a>|
 
 ## Skills
 <div>
