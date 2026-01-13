@@ -6,9 +6,9 @@ Recent graduate with a B.S. in Computer Science and a strong interest in technol
 ## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Title                                         | link         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Title                                         | link   | Skills             | 
+|-----------------------------------------------|--------|--------------------|
+| Honeypot Server | <a href="https://github.com/ChristianRod98/HoneyPot-Server">Repository</a> | Windows PowerShell, Linux, Cloud VPS environments|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Skills
