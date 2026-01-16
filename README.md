@@ -8,8 +8,9 @@ Recent graduate with a B.S. in Computer Science and a strong interest in technol
 
 | Title                                         | link   | Skills             | 
 |-----------------------------------------------|--------|--------------------|
-| Honeypot Server | <a href="https://github.com/ChristianRod98/HoneyPot-Server">Repository</a> | Windows PowerShell, Linux, Cloud VPS environments|
-| Home Lab | <a href="">Detection Lab</a>|
+| Honeypot Server | <a href="https://github.com/ChristianRod98/HoneyPot-Server">Repository</a> | Windows PowerShell, Linux, Cloud VPS Environments|
+| Home Lab | | | 
+| Key Logger | <a href="https://github.com/ChristianRod98/Malware_Keylogger">Repository</a>| Scripting & Automation, Python, Data Infiltration |
 
 ## Skills
 <div>
