@@ -4,8 +4,6 @@
 Recent graduate with a B.S. in Computer Science and a strong interest in technology and analytical problem-solving. Through academic and hands-on experience, I developed a passion for cybersecurity and am seeking to begin my career as a Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Title                                         | link   | Skills             | 
 |-----------------------------------------------|--------|--------------------|
 | Honeypot Server | <a href="https://github.com/ChristianRod98/HoneyPot-Server">Repository</a> | Windows PowerShell, Linux, Cloud VPS Environments|
@@ -31,7 +29,6 @@ Recent graduate with a B.S. in Computer Science and a strong interest in technol
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
