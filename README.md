@@ -1,7 +1,7 @@
 # Hello, I'm CHRISTIAN
 <a href="https://linkedin.com/in/cdrodr98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent graduate with a B.S. in Computer Science and a strong interest in technology and analytical problem-solving. Through academic and hands-on experience, I developed a passion for cybersecurity and am seeking to begin my career as a Tier 1 Security Operations Center (SOC) Analyst.
+Entry-level Cybersecurity Analyst with a B.S. in Computer Science and hands-on experience through security labs and projects. Foundational knowledge of security monitoring, threat detection, SIEM tools, and risk concepts aligned with the NIST Cybersecurity Framework. Actively pursuing CompTIA Security+ and seeking career opportunities as a Security Operations Center (SOC) Analyst.
 
 ## Projects
 | Title                                         | link   | Skills             | 
